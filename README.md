@@ -1,4 +1,14 @@
 # Herren iOS 과제
+안녕하세요. (주)헤렌의 넬로 입니다.
+
+(주)헤렌에 관심을 갖고 지원해주셔서 감사합니다. `서류전형 합격`을 진심으로 축하드립니다!
+
+이어서 진행될 면접을 위한 사전과제를 요청드립니다, 사전과제는 코딩 스타일, 문제 해결 능력 등을 파악하기 위한 용도이니 편하게 응시해 주세요.
+
+제출 기한보다 일찍 과제를 마무리 하셨다면 미리 제출하셔도 무방합니다.
+
+기타 궁금한 점이 있으시면 메일(`nello@herren.co.kr`)을 통해 자유롭게 연락 주시면 감사하겠습니다.
+
 
 ## REST API
 - https://crm-dev1.gongbiz.kr/app/v2020/cust?page=1&size=1
@@ -43,7 +53,7 @@
 ## 참고 화면
 ||기본 화면|정렬 화면|검색 화면|상세 화면|
 |:---:|:---:|:---:|:---:|:---:|
-|UI|<img width= "80%" src="https://user-images.githubusercontent.com/95662423/187832709-b22e32c9-2629-4b1a-afa4-207ba05174fb.jpg" />|<img width= "80%" src="https://user-images.githubusercontent.com/95662423/187832713-ed820325-ab38-46ce-8285-21415b092ec4.jpg" />|<img width= "80%" src="https://user-images.githubusercontent.com/95662423/187832715-898abd4e-af72-43ae-9809-b205607555dd.jpg" />|<img width= "80%" src="https://user-images.githubusercontent.com/95662423/187832715-898abd4e-af72-43ae-9809-b205607555dd.jpg" />|
+|UI|<img width= "80%" src="https://user-images.githubusercontent.com/95662423/187832709-b22e32c9-2629-4b1a-afa4-207ba05174fb.jpg" />|<img width= "80%" src="https://user-images.githubusercontent.com/95662423/187832713-ed820325-ab38-46ce-8285-21415b092ec4.jpg" />|<img width= "80%" src="https://user-images.githubusercontent.com/95662423/187832715-898abd4e-af72-43ae-9809-b205607555dd.jpg" />|<img width= "80%" src="https://user-images.githubusercontent.com/95662423/187852129-555b482c-09c9-49ad-8616-9c115ac87403.jpg" />|
 
 ## 참고 사항
 - 라이브러리 추가로 필요한게 있으면 자유롭게 사용.
