@@ -2,6 +2,8 @@
 
 ## REST API
 - https://crm-dev1.gongbiz.kr/app/v2020/cust?page=1&size=1
+    - `page`: 페이지 번호
+    - `size`: 페이지당 출력되는 아이템의 개수
 
 ## 필수 사용 라이브러리
 - [Alamofire](https://github.com/Alamofire/Alamofire)
