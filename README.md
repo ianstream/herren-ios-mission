@@ -9,6 +9,8 @@
 
 기타 궁금한 점이 있으시면 메일(`nello@herren.co.kr`)을 통해 자유롭게 연락 주시면 감사하겠습니다.
 
+## 과제 기한
+- 기본 기한은 `3일`입니다. - 기한이 부족할 경우 최대 5일까지 연장가능합니다.
 
 ## REST API
 - https://crm-dev1.gongbiz.kr/app/v2020/cust?page=1&size=1
